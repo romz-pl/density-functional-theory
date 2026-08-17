@@ -1,4 +1,4 @@
 # Density Functional Theory (DFT) knowledge-base
 
 ## Overview
-+ [What is DFT](./what-is-dft.md)?
++ [What is DFT](./doc/what-is-dft.md)?
