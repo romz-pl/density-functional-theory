@@ -2,4 +2,5 @@
 
 ## Overview
 + [What is DFT?](./doc/what-is-dft.md)
-+ [DFT Software Packages](./doc/dft-software.md)
++ [Complete list of DFT Software Packages](./doc/dft-software.md)
++ [Actively Developed DFT Software Packages](./doc/dft-software-avtive.md)
