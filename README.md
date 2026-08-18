@@ -4,3 +4,7 @@
 + [What is DFT?](./doc/what-is-dft.md)
 + [Complete list of DFT Software Packages](./doc/dft-software.md)
 + [Actively Developed DFT Software Packages](./doc/dft-software-avtive.md)
+
+
+## Software Packages
++ [VASP](./doc/software-vasp.md) — Vienna Ab initio Simulation Package.
