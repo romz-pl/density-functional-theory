@@ -8,5 +8,6 @@
 
 ## Software Packages
 + [ABINIT](./doc/software-abinit.md) — Open-source plane-wave/PAW code with strong capabilities in DFPT (density-functional perturbation theory), phonons, and many-body perturbation theory (GW, BSE).
++ [CASTEP](./doc/software-castep.md) — Plane-wave pseudopotential code for solids, surfaces, and interfaces, distributed with/without BIOVIA Materials Studio; commercial with academic licensing.
 + [Quantum ESPRESSO](./doc/software-quantum-espresso.md) — Open-source integrated suite (PWscf, CP, PHonon, etc.) for plane-wave pseudopotential DFT, phonons, and molecular dynamics.
 + [VASP (Vienna Ab initio Simulation Package)](./doc/software-vasp.md) — Widely used commercial plane-wave PAW/pseudopotential code for periodic solids, surfaces, and molecules; a mainstay in materials science and catalysis.
