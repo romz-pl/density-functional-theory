@@ -74,7 +74,7 @@ An exhaustive reference list of software packages that implement Density Functio
 | **DeMonNano** | DFT-based tight-binding code (auxiliary density functional tight-binding) for large biomolecular and nanoscale systems. |
 | **Firefly (PC GAMESS)** | Quantum chemistry package derived from GAMESS(US), optimized for x86 architectures, supporting DFT calculations. |
 | **Jaguar** | Commercial quantum chemistry package (Schrödinger suite) offering fast DFT methods for pharma and materials applications. |
-| **deal.II-based codes / DFTFE** | Real-space finite-element DFT code (DFT-FE) designed for large-scale, high-accuracy all-electron and pseudopotential calculations on HPC/GPU systems. |
+| **DFT-FE** | Real-space finite-element DFT code (based on deal.II) designed for large-scale, high-accuracy all-electron and pseudopotential calculations on HPC/GPU systems. |
 | **MPQC** (Massively Parallel Quantum Chemistry) | Open-source quantum chemistry package designed for parallel computation, including DFT methods. |
 | **PySCF** | Open-source, Python-based quantum chemistry package supporting DFT, post-HF, and periodic calculations, popular for method prototyping. |
 | **CFOUR** | Quantum chemistry package specializing in coupled-cluster methods, also including DFT functionality. |
