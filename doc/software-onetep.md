@@ -20,7 +20,9 @@ ONETEP has been under continuous development since the early 2000s by a consorti
 
 Conventional Kohn–Sham DFT constructs the electron density from $\mathcal{O}(N)$ orthonormal eigenstates $\psi_i(\mathbf{r})$, each expanded in an $\mathcal{O}(N)$-sized basis set, with an enforced mutual orthogonality that costs $\mathcal{O}(N^3)$ operations. ONETEP instead works directly with the one-particle density matrix,
 
-$$\rho(\mathbf{r}, \mathbf{r}') = \sum_i \psi_i(\mathbf{r}) f_i \psi_i^{*}(\mathbf{r}') = \phi_\alpha(\mathbf{r})\, K^{\alpha\beta}\, \phi_\beta^{*}(\mathbf{r}')$$
+$$
+\rho(\mathbf{r}, \mathbf{r}') = \sum_i \psi_i(\mathbf{r}) f_i \psi_i^{ * }(\mathbf{r}') = \phi_\alpha(\mathbf{r})\, K^{\alpha\beta}\, \phi_\beta^{ * }(\mathbf{r}')
+$$
 
 where $\phi_\alpha(\mathbf{r})$ are the NGWFs (Greek indices summed implicitly), and $K^{\alpha\beta}$ is the **density kernel** — a generalized, non-orthogonal analogue of the occupation-number matrix that simultaneously encodes orbital occupancy and the mutual non-orthogonality of the underlying local orbitals.
 
