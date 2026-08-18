@@ -12,6 +12,7 @@
 + [CP2K](./doc/software-cp2k.md) — Open-source code using a mixed Gaussian and plane-wave (GPW) approach, excelling at large-scale condensed-phase and QM/MM simulations.
 + [CPMD (Car-Parrinello Molecular Dynamics)](./doc/software-cpmd.md) — Plane-wave code specialized in Car-Parrinello and Born-Oppenheimer ab initio molecular dynamics.
 + [JDFTx](./doc/software-jdftx.md) — Open-source plane-wave DFT code emphasizing joint density-functional theory for solvation and electrochemical interfaces.
++ [PARSEC](./doc/software-parsec.md) — Real-space pseudopotential DFT code using finite differences on a grid rather than plane waves.
 + [PWmat](./doc/software-pwmat.md) — GPU-accelerated plane-wave pseudopotential DFT code designed for high-throughput and machine-learning-assisted materials simulation.
 + [Qbox](./doc/software-qbox.md) — Scalable plane-wave/pseudopotential code designed for large-scale parallel first-principles molecular dynamics on supercomputers.
 + [Quantum ESPRESSO](./doc/software-quantum-espresso.md) — Open-source integrated suite (PWscf, CP, PHonon, etc.) for plane-wave pseudopotential DFT, phonons, and molecular dynamics.
