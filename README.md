@@ -26,6 +26,7 @@
 + [PARSEC](./doc/software-parsec.md) — Real-space pseudopotential DFT code using finite differences on a grid rather than plane waves.
 + [PROFESS](./doc/software-profess.md) — Orbital-free DFT code for large-scale simulations using kinetic-energy density functionals instead of Kohn-Sham orbitals.
 + [PWmat](./doc/software-pwmat.md) — GPU-accelerated plane-wave pseudopotential DFT code designed for high-throughput and machine-learning-assisted materials simulation.
++ [RESCU](./doc/software-rescu.md) — GPU-accelerated linear combination of atomic orbitals (LCAO) and plane-wave DFT code for large-scale materials simulations.
 + [Qbox](./doc/software-qbox.md) — Scalable plane-wave/pseudopotential code designed for large-scale parallel first-principles molecular dynamics on supercomputers.
 + [Quantum ESPRESSO](./doc/software-quantum-espresso.md) — Open-source integrated suite (PWscf, CP, PHonon, etc.) for plane-wave pseudopotential DFT, phonons, and molecular dynamics.
 + [SIESTA](./doc/software-siesta.md) — Open-source, order-N (linear-scaling capable) DFT code using numerical atomic orbital basis sets and norm-conserving pseudopotentials.
