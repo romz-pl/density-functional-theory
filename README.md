@@ -15,6 +15,7 @@
 + [CPMD (Car-Parrinello Molecular Dynamics)](./doc/software-cpmd.md) — Plane-wave code specialized in Car-Parrinello and Born-Oppenheimer ab initio molecular dynamics.
 + [DFTB+](./doc/software-dftb.md) — Fast approximate DFT code implementing density-functional tight-binding (DFTB) and extended tight-binding (xTB) methods for large systems.
 + [DFT-FE](./doc/software-dft-fe.md) — Real-space finite-element DFT code (based on deal.II) designed for large-scale, high-accuracy all-electron and pseudopotential calculations on HPC/GPU systems.
++ [DFTK.jl](./doc/software-dftk.md) — Julia-based (Density-Functional Toolkit), plane-wave pseudopotential DFT code emphasizing algorithmic research, verification, and mathematical rigor.
 + [DMol3](./doc/software-dmol3.md) — Numerical atomic orbital DFT code for molecules, surfaces, and solids, distributed within BIOVIA Materials Studio (commercial).
 + [FHI-aims](./doc/software-fhi-aims.md) — All-electron, numeric atom-centered orbital DFT code offering high accuracy across molecules, clusters, and periodic solids.
 + [GPAW](./doc/software-gpaw.md) — Real-space/plane-wave/LCAO DFT code implementing the projector augmented-wave (PAW) method, built on the Python ASE framework.
