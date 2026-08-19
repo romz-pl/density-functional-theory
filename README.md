@@ -17,6 +17,7 @@
 + [JDFTx](./doc/software-jdftx.md) — Open-source plane-wave DFT code emphasizing joint density-functional theory for solvation and electrochemical interfaces.
 + [Octopus](./doc/software-octopus.md) — Real-space, real-time DFT/TDDFT code for finite and periodic systems, focused on excited-state and spectroscopic properties
 + [ONETEP](./doc/software-onetep.md) — Linear-scaling plane-wave-based DFT code using local orbitals ("psinc" functions), designed for very large systems.
++ [OpenMX](./doc/software-openmx.md) — Open-source DFT code using pseudo-atomic localized basis functions and norm-conserving pseudopotentials, efficient for large systems.
 + [PARSEC](./doc/software-parsec.md) — Real-space pseudopotential DFT code using finite differences on a grid rather than plane waves.
 + [PWmat](./doc/software-pwmat.md) — GPU-accelerated plane-wave pseudopotential DFT code designed for high-throughput and machine-learning-assisted materials simulation.
 + [Qbox](./doc/software-qbox.md) — Scalable plane-wave/pseudopotential code designed for large-scale parallel first-principles molecular dynamics on supercomputers.
