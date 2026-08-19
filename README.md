@@ -13,6 +13,7 @@
 + [CONQUEST](./doc/software-conquest.md) — Linear-scaling DFT code for simulations of very large systems (up to millions of atoms) using numerical atomic orbitals or blip basis functions.
 + [CP2K](./doc/software-cp2k.md) — Open-source code using a mixed Gaussian and plane-wave (GPW) approach, excelling at large-scale condensed-phase and QM/MM simulations.
 + [CPMD (Car-Parrinello Molecular Dynamics)](./doc/software-cpmd.md) — Plane-wave code specialized in Car-Parrinello and Born-Oppenheimer ab initio molecular dynamics.
++ [DFTB+](./doc/software-dftb.md) — Fast approximate DFT code implementing density-functional tight-binding (DFTB) and extended tight-binding (xTB) methods for large systems.
 + [DFT-FE](./doc/software-dft-fe.md) — Real-space finite-element DFT code (based on deal.II) designed for large-scale, high-accuracy all-electron and pseudopotential calculations on HPC/GPU systems.
 + [FHI-aims](./doc/software-fhi-aims.md) — All-electron, numeric atom-centered orbital DFT code offering high accuracy across molecules, clusters, and periodic solids.
 + [JDFTx](./doc/software-jdftx.md) — Open-source plane-wave DFT code emphasizing joint density-functional theory for solvation and electrochemical interfaces.
