@@ -21,4 +21,5 @@
 + [PWmat](./doc/software-pwmat.md) — GPU-accelerated plane-wave pseudopotential DFT code designed for high-throughput and machine-learning-assisted materials simulation.
 + [Qbox](./doc/software-qbox.md) — Scalable plane-wave/pseudopotential code designed for large-scale parallel first-principles molecular dynamics on supercomputers.
 + [Quantum ESPRESSO](./doc/software-quantum-espresso.md) — Open-source integrated suite (PWscf, CP, PHonon, etc.) for plane-wave pseudopotential DFT, phonons, and molecular dynamics.
++ [SIESTA](./doc/software-siesta.md) — Open-source, order-N (linear-scaling capable) DFT code using numerical atomic orbital basis sets and norm-conserving pseudopotentials.
 + [VASP (Vienna Ab initio Simulation Package)](./doc/software-vasp.md) — Widely used commercial plane-wave PAW/pseudopotential code for periodic solids, surfaces, and molecules; a mainstay in materials science and catalysis.
