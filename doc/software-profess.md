@@ -16,7 +16,7 @@ Both approaches rest on the Hohenberg–Kohn theorems, which guarantee that the 
 
 $$E[n] = T_s[n] + E_H[n] + E_{xc}[n] + \int v_{ext}(\mathbf{r})\, n(\mathbf{r})\, d\mathbf{r}$$
 
-Kohn–Sham DFT sidesteps the unknown non-interacting kinetic energy functional $T_s[n]$ by reintroducing a fictitious set of single-particle orbitals $\{\psi_i\}$ such that $T_s = -\tfrac{1}{2}\sum_i \int \psi_i^\ast \nabla^2 \psi_i\, d\mathbf{r}$, which is exact but requires solving $N_{\text{electron}}$ coupled eigenvalue equations self-consistently — the source of cubic ($O(N^3)$) computational scaling for the orthogonalization/diagonalization steps as system size $N$ grows.
+Kohn–Sham DFT sidesteps the unknown non-interacting kinetic energy functional $T_s[n]$ by reintroducing a fictitious set of single-particle orbitals $\{\psi_i\}$ such that $T_s = -\tfrac{1}{2}\sum_i \int \psi_i^\ast \nabla^2 \psi_i\, d\mathbf{r}$, which is exact but requires solving $N_{\text{electron}}$ coupled eigenvalue equations self-consistently — the source of cubic ( $O(N^3)$ ) computational scaling for the orthogonalization/diagonalization steps as system size $N$ grows.
 
 OF-DFT instead evaluates $T_s[n]$ directly as an explicit approximate functional of the density, bypassing orbitals entirely. The ground-state density is obtained by direct unconstrained (or singly-constrained, for particle-number conservation) minimization of the total energy functional with respect to $n(\mathbf{r})$ (or, in PROFESS's actual implementation, with respect to $\phi(\mathbf{r}) = \sqrt{n(\mathbf{r})}$, which automatically enforces non-negativity of the density). This removes the wavefunction-orthogonality bottleneck and allows the electronic energy and potential terms to scale essentially linearly with system size.
 
@@ -25,9 +25,11 @@ OF-DFT instead evaluates $T_s[n]$ directly as an explicit approximate functional
 The accuracy of any OF-DFT calculation is dominated by the quality of the approximate KEDF, since the kinetic energy is typically the largest energy term. PROFESS implements a hierarchy of KEDFs of increasing sophistication:
 
 - **Thomas–Fermi (TF) functional** — the local-density approximation to the kinetic energy, exact in the limit of a slowly varying, uniform electron gas:
+
 $$T_{TF}[n] = C_F \int n(\mathbf{r})^{5/3}\, d\mathbf{r}, \qquad C_F = \frac{3}{10}(3\pi^2)^{2/3}$$
 
 - **von Weizsäcker (vW) functional** — exact for a single-orbital (or two-electron closed-shell) system, and dominant in regions of rapidly varying density (e.g., near nuclei or in the vacuum tail):
+
 $$T_{vW}[n] = \frac{1}{8}\int \frac{|\nabla n(\mathbf{r})|^2}{n(\mathbf{r})}\, d\mathbf{r}$$
 
 - **TF$\lambda$vW / TFvW hybrids** — linear combinations of the above two limiting forms.
