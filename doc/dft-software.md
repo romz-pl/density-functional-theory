@@ -38,6 +38,7 @@ An exhaustive reference list of software packages that implement Density Functio
 | **HONPAS** | Numerical atomic orbital DFT code based on the SIESTA methodology with hybrid functional support. |
 | **LS3DF** | Linearly Scaling Three-Dimensional Fragment (LS3DF) code is an advanced ab initio electronic structure calculation program developed primarily at Lawrence Berkeley National Laboratory. |
 | **RSDFT** | Ab initio electronic structure calculation program that uses a real-space finite-difference grid and pseudopotentials. |
+| **PEtot** | Portable, plane-wave pseudopotential density functional theory (DFT) computer program designed for large-scale electronic structure calculations on parallel computer architectures. |
 
 ---
 
