@@ -28,6 +28,7 @@
 + [ONETEP](./doc/software-onetep.md) — Linear-scaling plane-wave-based DFT code using local orbitals ("psinc" functions), designed for very large systems.
 + [OpenMX](./doc/software-openmx.md) — Open-source DFT code using pseudo-atomic localized basis functions and norm-conserving pseudopotentials, efficient for large systems.
 + [PARSEC](./doc/software-parsec.md) — Real-space pseudopotential DFT code using finite differences on a grid rather than plane waves.
++ [PEtot](./doc/software-petot.md) — Portable, plane-wave pseudopotential density functional theory (DFT) computer program designed for large-scale electronic structure calculations on parallel computer architectures.
 + [PROFESS](./doc/software-profess.md) — Orbital-free DFT code for large-scale simulations using kinetic-energy density functionals instead of Kohn-Sham orbitals.
 + [PWDFT / PWDFT.jl](./doc/software-pwdft.md) — Plane-wave DFT codes (C++/Julia implementations) developed for large-scale and GPU-accelerated electronic structure calculations.
 + [PWmat](./doc/software-pwmat.md) — GPU-accelerated plane-wave pseudopotential DFT code designed for high-throughput and machine-learning-assisted materials simulation.
