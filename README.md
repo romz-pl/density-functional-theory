@@ -7,6 +7,7 @@
 
 
 ## Software Packages
++ [Abacus](./doc/software-abacus.md) — Open-source DFT package supporting both plane-wave and numerical atomic orbital bases, developed for large-scale and high-throughput calculations.
 + [ABINIT](./doc/software-abinit.md) — Open-source plane-wave/PAW code with strong capabilities in DFPT (density-functional perturbation theory), phonons, and many-body perturbation theory (GW, BSE).
 + [BigDFT](./doc/software-bigdft.md) — DFT code using Daubechies wavelets as a basis, enabling adaptive resolution and linear-scaling algorithms.
 + [CASTEP](./doc/software-castep.md) — Plane-wave pseudopotential code for solids, surfaces, and interfaces, distributed with/without BIOVIA Materials Studio; commercial with academic licensing.
