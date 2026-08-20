@@ -30,4 +30,5 @@
 + [Qbox](./doc/software-qbox.md) — Scalable plane-wave/pseudopotential code designed for large-scale parallel first-principles molecular dynamics on supercomputers.
 + [Quantum ESPRESSO](./doc/software-quantum-espresso.md) — Open-source integrated suite (PWscf, CP, PHonon, etc.) for plane-wave pseudopotential DFT, phonons, and molecular dynamics.
 + [SIESTA](./doc/software-siesta.md) — Open-source, order-N (linear-scaling capable) DFT code using numerical atomic orbital basis sets and norm-conserving pseudopotentials.
++ [SPARC](./doc/software-sparc.md) — Real-space finite-difference DFT code designed for accuracy and scalability on modern high-performance computing architectures.
 + [VASP (Vienna Ab initio Simulation Package)](./doc/software-vasp.md) — Widely used commercial plane-wave PAW/pseudopotential code for periodic solids, surfaces, and molecules; a mainstay in materials science and catalysis.
