@@ -39,6 +39,11 @@ An exhaustive reference list of software packages that implement Density Functio
 | **LS3DF** | Linearly Scaling Three-Dimensional Fragment (LS3DF) code is an advanced ab initio electronic structure calculation program developed primarily at Lawrence Berkeley National Laboratory. |
 | **RSDFT** | Ab initio electronic structure calculation program that uses a real-space finite-difference grid and pseudopotentials. |
 | **PEtot** | Portable, plane-wave pseudopotential density functional theory (DFT) computer program designed for large-scale electronic structure calculations on parallel computer architectures. |
+| **Dacapo** | Open-source density-functional theory (DFT) and ab initio molecular dynamics program. |
+| **Socorro** | Open-source, object-oriented electronic structure computer code developed primarily at Sandia National Laboratories for performing self-consistent density-functional theory (DFT) calculations. |
+| **DFT++** | Open-source, object-oriented framework and methodology for density functional theory (DFT) calculations. |
+| **PARATEC** | Parallel Total Energy Code is an ab initio density functional theory (DFT) software package. |
+| **SPHInX** | S/PHI/nX is an object-oriented C++ density-functional theory (DFT) software package designed for electronic structure calculations and materials science research. |
 
 ---
 
