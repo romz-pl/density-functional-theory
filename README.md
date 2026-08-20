@@ -29,6 +29,7 @@
 + [Octopus](./doc/software-octopus.md) — Real-space, real-time DFT/TDDFT code for finite and periodic systems, focused on excited-state and spectroscopic properties
 + [ONETEP](./doc/software-onetep.md) — Linear-scaling plane-wave-based DFT code using local orbitals ("psinc" functions), designed for very large systems.
 + [OpenMX](./doc/software-openmx.md) — Open-source DFT code using pseudo-atomic localized basis functions and norm-conserving pseudopotentials, efficient for large systems.
++ [PARATEC](./doc/software-paratec.md) — Parallel Total Energy Code is an ab initio density functional theory (DFT) software package
 + [PARSEC](./doc/software-parsec.md) — Real-space pseudopotential DFT code using finite differences on a grid rather than plane waves.
 + [PEtot](./doc/software-petot.md) — Portable, plane-wave pseudopotential density functional theory (DFT) computer program designed for large-scale electronic structure calculations on parallel computer architectures.
 + [PROFESS](./doc/software-profess.md) — Orbital-free DFT code for large-scale simulations using kinetic-energy density functionals instead of Kohn-Sham orbitals.
