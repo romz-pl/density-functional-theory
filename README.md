@@ -23,6 +23,7 @@
 + [GPAW](./doc/software-gpaw.md) — Real-space/plane-wave/LCAO DFT code implementing the projector augmented-wave (PAW) method, built on the Python ASE framework.
 + [HONPAS](./doc/software-honpas.md) — Numerical atomic orbital DFT code based on the SIESTA methodology with hybrid functional support.
 + [JDFTx](./doc/software-jdftx.md) — Open-source plane-wave DFT code emphasizing joint density-functional theory for solvation and electrochemical interfaces.
++ [LS3DF](./doc/software-ls3df.md) — Linearly Scaling Three-Dimensional Fragment (LS3DF) code is an advanced ab initio electronic structure calculation program developed primarily at Lawrence Berkeley National Laboratory.
 + [Octopus](./doc/software-octopus.md) — Real-space, real-time DFT/TDDFT code for finite and periodic systems, focused on excited-state and spectroscopic properties
 + [ONETEP](./doc/software-onetep.md) — Linear-scaling plane-wave-based DFT code using local orbitals ("psinc" functions), designed for very large systems.
 + [OpenMX](./doc/software-openmx.md) — Open-source DFT code using pseudo-atomic localized basis functions and norm-conserving pseudopotentials, efficient for large systems.
