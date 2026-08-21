@@ -23,6 +23,7 @@
 + [DMol3](./doc/software-dmol3.md) — Numerical atomic orbital DFT code for molecules, surfaces, and solids, distributed within BIOVIA Materials Studio (commercial).
 + [Elk](./doc/software-elk.md) — Open-source, full-potential all-electron LAPW code, notable for extensive support of advanced DFT and beyond-DFT methods.
 + [Exciting](./doc/software-exciting.md) — Full-potential all-electron LAPW+lo code with a strong focus on excited-state properties (GW, BSE, TDDFT).
++ [FHI96 / FLAIR](./doc/software-fhi96.md) — All-electron LAPW-based codes with historical roots in surface and thin-film electronic structure studies.
 + [FHI-aims](./doc/software-fhi-aims.md) — All-electron, numeric atom-centered orbital DFT code offering high accuracy across molecules, clusters, and periodic solids.
 + [FLEUR](./doc/software-fluer.md) — Open-source full-potential linearized augmented plane-wave (FLAPW) code, strong in magnetism and spin-orbit coupling studies.
 + [GPAW](./doc/software-gpaw.md) — Real-space/plane-wave/LCAO DFT code implementing the projector augmented-wave (PAW) method, built on the Python ASE framework.
