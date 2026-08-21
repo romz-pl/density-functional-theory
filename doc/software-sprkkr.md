@@ -30,7 +30,7 @@ The underlying single-site problem is the Dirac equation of relativistic spin-de
 
 $$\mathcal H_D = -ic\,\vec{\boldsymbol\alpha}\cdot\vec\nabla + \tfrac12 c^2(\boldsymbol\beta-1) + V(\vec r) + \beta\,\vec{\boldsymbol\sigma}\cdot\vec B(\vec r)\, ,$$
 
-with $V(\vec{r}) $ and $\vec{B}(\vec{ })$ the effective electrostatic and exchange–correlation magnetic-field potentials of (spin-)density functional theory.
+with $V(\vec{r}) $ and $\vec{B}(\vec{r})$ the effective electrostatic and exchange–correlation magnetic-field potentials of (spin-)density functional theory.
 
 Because the formalism is built directly around $G$ rather than around eigenstates, SPR-KKR gains several structural advantages:
 
