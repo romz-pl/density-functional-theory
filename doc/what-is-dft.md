@@ -220,7 +220,7 @@ $$
 E_{xc}^{\text{DH}} = a\,E_x^{\text{exact}} + (1-a)\,E_x^{\text{GGA}} + b\,E_c^{\text{PT2}} + (1-b)\,E_c^{\text{GGA}}
 $$
 
-Examples: B2PLYP, DSD-BLYP. These sit at the top of Jacob's Ladder alongside RPA (random phase approximation)-based methods, which compute correlation non-perturbatively from the KS response function and can capture long-range van der Waals dispersion naturally, at substantially higher ($O(N^4)$–$O(N^6)$) computational cost.
+Examples: B2PLYP, DSD-BLYP. These sit at the top of Jacob's Ladder alongside RPA (random phase approximation)-based methods, which compute correlation non-perturbatively from the KS response function and can capture long-range van der Waals dispersion naturally, at substantially higher ($O(N^4) - O(N^6)$) computational cost.
 
 ### 5.3 Dispersion (van der Waals) Corrections
 
