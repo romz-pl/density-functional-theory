@@ -89,8 +89,18 @@ $$
 
 where:
 - $T_s[n]$ — kinetic energy of the *non-interacting* reference system (computed exactly from KS orbitals, not a density functional in explicit closed form)
-- $E_H[n] = \dfrac{1}{2}\displaystyle\iint \dfrac{n(\mathbf{r})n(\mathbf{r}')}{|\mathbf{r}-\mathbf{r}'|}\, d\mathbf{r}\, d\mathbf{r}'$ — the classical Hartree (Coulomb) electrostatic self-repulsion of the density
-- $E_{xc}[n]$ — the **exchange-correlation functional**, defined to absorb *everything else*:
+- $E_H[n]$ — the classical Hartree (Coulomb) electrostatic self-repulsion of the density
+- $E_{xc}[n]$ — the **exchange-correlation functional**.
+
+
+
+The classical Hartree (Coulomb) electrostatic is defined as
+
+$$
+E_H[n] = \dfrac{1}{2}\displaystyle\iint \dfrac{n(\mathbf{r})n(\mathbf{r}')}{|\mathbf{r}-\mathbf{r}'|}\, d\mathbf{r}\, d\mathbf{r}'
+$$
+
+The exchange-correlation functional is defined to absorb *everything else*:
 
 $$
 E_{xc}[n] \equiv \big(T[n] - T_s[n]\big) + \big(V_{ee}[n] - E_H[n]\big)
@@ -220,7 +230,7 @@ $$
 E_{xc}^{\text{DH}} = a\,E_x^{\text{exact}} + (1-a)\,E_x^{\text{GGA}} + b\,E_c^{\text{PT2}} + (1-b)\,E_c^{\text{GGA}}
 $$
 
-Examples: B2PLYP, DSD-BLYP. These sit at the top of Jacob's Ladder alongside RPA (random phase approximation)-based methods, which compute correlation non-perturbatively from the KS response function and can capture long-range van der Waals dispersion naturally, at substantially higher ($O(N^4) - O(N^6)$) computational cost.
+Examples: B2PLYP, DSD-BLYP. These sit at the top of Jacob's Ladder alongside RPA (random phase approximation)-based methods, which compute correlation non-perturbatively from the KS response function and can capture long-range van der Waals dispersion naturally, at substantially higher ( $O(N^4) - O(N^6)$ ) computational cost.
 
 ### 5.3 Dispersion (van der Waals) Corrections
 
@@ -229,7 +239,11 @@ Standard LDA/GGA/hybrid functionals, being (semi-)local, fundamentally cannot ca
 - **DFT-D (Grimme)**: DFT-D2, DFT-D3, DFT-D4 — add an empirical pairwise $-C_6/R^6$ (and higher-order) correction with tabulated/environment-dependent coefficients and a damping function at short range.
 - **Tkatchenko–Scheffler (TS) method**: Derives dispersion coefficients from the ground-state electron density using reference free-atom polarizabilities.
 - **Many-body dispersion (MBD)**: Goes beyond pairwise-additive corrections to include collective, many-body dispersion effects.
-- **Non-local van der Waals density functionals (vdW-DF, vdW-DF2, rVV10, VV10)**: Incorporate a genuinely non-local correlation functional term directly, $E_c^{nl}[n] = \frac12\iint n(\mathbf r)\phi(\mathbf r,\mathbf r') n(\mathbf r')\,d\mathbf r\, d\mathbf r'$, avoiding empirical atom-pair parameters.
+- **Non-local van der Waals density functionals (vdW-DF, vdW-DF2, rVV10, VV10)**: Incorporate a genuinely non-local correlation functional term directly, avoiding empirical atom-pair parameters, i.e:
+
+  $$
+  E_c^{nl}[n] = \frac12\iint n(\mathbf r)\phi(\mathbf r,\mathbf r') n(\mathbf r')\,d\mathbf r\, d\mathbf r'.
+  $$
 
 ---
 
