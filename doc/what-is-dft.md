@@ -30,7 +30,7 @@ $$
 \hat{H}\Psi = \left[ -\frac{1}{2}\sum_{i=1}^N \nabla_i^2 + \sum_{i=1}^N v_{\text{ext}}(\mathbf{r}_i) + \sum_{i<j} \frac{1}{|\mathbf{r}_i - \mathbf{r}_j|} \right]\Psi = E\Psi
 $$
 
-(in atomic units, $\hbar = m_e = e = 4\pi\epsilon_0 = 1$). The three terms are the kinetic energy operator $\hat{T}$, the external potential operator $\hat{V}_{\text{ext}}$, and the electron–electron repulsion operator $\hat{V}_{ee}$.
+(in atomic units, $\hbar = m_e = e = 4\pi\epsilon_0 = 1$). The three terms are the kinetic energy operator $\hat{T}$, the external potential operator $\hat{V}_ {\text{ext}}$, and the electron–electron repulsion operator $\hat{V}_{ee}$.
 
 Directly solving this equation is intractable beyond a few electrons because $\Psi$ lives in a $3N$-dimensional configuration space (plus spin and antisymmetry constraints).
 
@@ -66,6 +66,7 @@ This gives a variational route: minimize $E[n]$ over trial densities to find $n_
 - **Levy–Lieb constrained-search formulation (1979, 1983)**: Resolves this gap. Defines
 $$
 F[n] = \min_{\Psi \to n} \langle \Psi | \hat{T} + \hat{V}_{ee} | \Psi \rangle
+
 $$
 i.e., search over all antisymmetric wavefunctions $\Psi$ that yield the density $n(\mathbf{r})$, and take the one minimizing $\langle \hat T + \hat V_{ee}\rangle$. This extends DFT's rigorous foundation to all $N$-representable densities (those from *some* antisymmetric wavefunction — a much weaker and easily satisfied condition), removing the need to assume $v$-representability.
 
@@ -89,9 +90,11 @@ where:
 - $T_s[n]$ — kinetic energy of the *non-interacting* reference system (computed exactly from KS orbitals, not a density functional in explicit closed form)
 - $E_H[n] = \dfrac{1}{2}\displaystyle\iint \dfrac{n(\mathbf{r})n(\mathbf{r}')}{|\mathbf{r}-\mathbf{r}'|}\, d\mathbf{r}\, d\mathbf{r}'$ — the classical Hartree (Coulomb) electrostatic self-repulsion of the density
 - $E_{xc}[n]$ — the **exchange-correlation functional**, defined to absorb *everything else*:
+
 $$
 E_{xc}[n] \equiv \big(T[n] - T_s[n]\big) + \big(V_{ee}[n] - E_H[n]\big)
 $$
+
 i.e., the difference between the true kinetic energy and the non-interacting kinetic energy, plus the difference between the true electron–electron interaction energy and the classical Hartree term. All many-body exchange and correlation physics — and the error from using a non-interacting kinetic energy — is packed into this one term.
 
 ### 4.2 Kohn–Sham Orbitals and the Self-Consistent Equations
