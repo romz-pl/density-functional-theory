@@ -1,4 +1,4 @@
-# Density Functional Theory (DFT) knowledge-base
+# Density Functional Theory (DFT)
 
 ## Overview
 + [What is DFT?](./doc/what-is-dft.md)
@@ -45,3 +45,6 @@
 + [SPHInX](./doc/software-sphinx.md) — S/PHI/nX is an object-oriented C++ density-functional theory (DFT) software package designed for electronic structure calculations and materials science research.
 + [VASP](./doc/software-vasp.md) — Vienna Ab initio Simulation Package idely used commercial plane-wave PAW/pseudopotential code for periodic solids, surfaces, and molecules; a mainstay in materials science and catalysis.
 + [WIEN2k](./doc/software-wien2k.md) — Widely used all-electron full-potential linearized augmented plane-wave plus local orbitals (FP-LAPW+lo) code for solids; commercial/academic license.
+
+
+## Pseudopotentials
