@@ -21,6 +21,7 @@
 + [DFTK.jl](./doc/software-dftk.md) — Julia-based (Density-Functional Toolkit), plane-wave pseudopotential DFT code emphasizing algorithmic research, verification, and mathematical rigor.
 + [DGDFT](./doc/software-dgdft.md) — Discontinuous Galerkin DFT code designed for massively parallel, large-scale electronic structure calculations.
 + [DMol3](./doc/software-dmol3.md) — Numerical atomic orbital DFT code for molecules, surfaces, and solids, distributed within BIOVIA Materials Studio (commercial).
++ [Elk](./doc/software-elk.md) — Open-source, full-potential all-electron LAPW code, notable for extensive support of advanced DFT and beyond-DFT methods.
 + [FHI-aims](./doc/software-fhi-aims.md) — All-electron, numeric atom-centered orbital DFT code offering high accuracy across molecules, clusters, and periodic solids.
 + [GPAW](./doc/software-gpaw.md) — Real-space/plane-wave/LCAO DFT code implementing the projector augmented-wave (PAW) method, built on the Python ASE framework.
 + [HONPAS](./doc/software-honpas.md) — Numerical atomic orbital DFT code based on the SIESTA methodology with hybrid functional support.
