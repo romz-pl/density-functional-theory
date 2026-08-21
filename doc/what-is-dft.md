@@ -64,10 +64,11 @@ This gives a variational route: minimize $E[n]$ over trial densities to find $n_
 
 - **$v$-representability**: A density is $v$-representable if it is the ground-state density of *some* external potential. Not all well-behaved densities are known to be $v$-representable, which was a formal gap in the original HK proof.
 - **Levy–Lieb constrained-search formulation (1979, 1983)**: Resolves this gap. Defines
-$$
-F[n] = \min_{\Psi \to n} \langle \Psi | \hat{T} + \hat{V}_{ee} | \Psi \rangle
 
 $$
+F[n] = \min_{\Psi \to n} \langle \Psi | \hat{T} + \hat{V}_{ee} | \Psi \rangle
+$$
+
 i.e., search over all antisymmetric wavefunctions $\Psi$ that yield the density $n(\mathbf{r})$, and take the one minimizing $\langle \hat T + \hat V_{ee}\rangle$. This extends DFT's rigorous foundation to all $N$-representable densities (those from *some* antisymmetric wavefunction — a much weaker and easily satisfied condition), removing the need to assume $v$-representability.
 
 ---
