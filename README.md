@@ -22,6 +22,7 @@
 + [DGDFT](./doc/software-dgdft.md) — Discontinuous Galerkin DFT code designed for massively parallel, large-scale electronic structure calculations.
 + [DMol3](./doc/software-dmol3.md) — Numerical atomic orbital DFT code for molecules, surfaces, and solids, distributed within BIOVIA Materials Studio (commercial).
 + [Elk](./doc/software-elk.md) — Open-source, full-potential all-electron LAPW code, notable for extensive support of advanced DFT and beyond-DFT methods.
++ [Exciting](./doc/software-exciting.md) — Full-potential all-electron LAPW+lo code with a strong focus on excited-state properties (GW, BSE, TDDFT).
 + [FHI-aims](./doc/software-fhi-aims.md) — All-electron, numeric atom-centered orbital DFT code offering high accuracy across molecules, clusters, and periodic solids.
 + [FLEUR](./doc/software-fluer.md) — Open-source full-potential linearized augmented plane-wave (FLAPW) code, strong in magnetism and spin-orbit coupling studies.
 + [GPAW](./doc/software-gpaw.md) — Real-space/plane-wave/LCAO DFT code implementing the projector augmented-wave (PAW) method, built on the Python ASE framework.
