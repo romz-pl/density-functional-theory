@@ -9,7 +9,7 @@
 ## Software Packages
 + [Abacus](./doc/software-abacus.md) — Open-source DFT package supporting both plane-wave and numerical atomic orbital bases, developed for large-scale and high-throughput calculations.
 + [ABINIT](./doc/software-abinit.md) — Open-source plane-wave/PAW code with strong capabilities in DFPT (density-functional perturbation theory), phonons, and many-body perturbation theory (GW, BSE).
-+ [AkaiKKR](./doc/software-akaikkr.md) — MACHIKANEYAMA; All-electron Korringa-Kohn-Rostoker (KKR) Green's-function DFT code, well suited to disordered alloys via the coherent potential approximation.
++ [AkaiKKR / MACHIKANEYAMA](./doc/software-akaikkr.md) — All-electron Korringa-Kohn-Rostoker (KKR) Green's-function DFT code, well suited to disordered alloys via the coherent potential approximation.
 + [BigDFT](./doc/software-bigdft.md) — DFT code using Daubechies wavelets as a basis, enabling adaptive resolution and linear-scaling algorithms.
 + [CASTEP](./doc/software-castep.md) — Plane-wave pseudopotential code for solids, surfaces, and interfaces, distributed with/without BIOVIA Materials Studio; commercial with academic licensing.
 + [CONQUEST](./doc/software-conquest.md) — Linear-scaling DFT code for simulations of very large systems (up to millions of atoms) using numerical atomic orbitals or blip basis functions.
