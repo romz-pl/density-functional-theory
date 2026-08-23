@@ -46,7 +46,8 @@
 + [PWmat](./doc/software-pwmat.md) — GPU-accelerated plane-wave pseudopotential DFT code designed for high-throughput and machine-learning-assisted materials simulation.
 + [RESCU](./doc/software-rescu.md) — GPU-accelerated linear combination of atomic orbitals (LCAO) and plane-wave DFT code for large-scale materials simulations.
 + [RSDFT](./doc/software-rsdft.md) — Ab initio electronic structure calculation program that uses a real-space finite-difference grid and pseudopotentials.
-+ [RSPt](./doc/software-rspt.md) —  Relativistic Spin Polarized toolkit; Full-potential linear muffin-tin orbital (FP-LMTO) all-electron DFT code for solids.
++ [RSPt](./doc/software-rspt.md) — Relativistic Spin Polarized toolkit; Full-potential linear muffin-tin orbital (FP-LMTO) all-electron DFT code for solids.
++ [Q-Chem](./doc/software-qchem.md) — Commercial quantum chemistry package offering a broad range of DFT functionals plus advanced excited-state and solvation methods.
 + [Qbox](./doc/software-qbox.md) — Scalable plane-wave/pseudopotential code designed for large-scale parallel first-principles molecular dynamics on supercomputers.
 + [Quantum ESPRESSO](./doc/software-quantum-espresso.md) — Open-source integrated suite (PWscf, CP, PHonon, etc.) for plane-wave pseudopotential DFT, phonons, and molecular dynamics.
 + [Questaal](./doc/software-questaal.md) — Suite of full-potential and atomic-sphere-approximation LMTO codes for electronic structure, including DFT+DMFT and GW.
