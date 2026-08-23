@@ -41,6 +41,7 @@
 + [PARSEC](./doc/software-parsec.md) — Real-space pseudopotential DFT code using finite differences on a grid rather than plane waves.
 + [PEtot](./doc/software-petot.md) — Portable, plane-wave pseudopotential density functional theory (DFT) computer program designed for large-scale electronic structure calculations on parallel computer architectures.
 + [PROFESS](./doc/software-profess.md) — Orbital-free DFT code for large-scale simulations using kinetic-energy density functionals instead of Kohn-Sham orbitals.
++ [Psi4](./doc/software-psi4.md) — Open-source quantum chemistry package with extensive DFT and post-HF methods, popular for method development and Python scripting.
 + [PWDFT / PWDFT.jl](./doc/software-pwdft.md) — Plane-wave DFT codes (C++/Julia implementations) developed for large-scale and GPU-accelerated electronic structure calculations.
 + [PWmat](./doc/software-pwmat.md) — GPU-accelerated plane-wave pseudopotential DFT code designed for high-throughput and machine-learning-assisted materials simulation.
 + [RESCU](./doc/software-rescu.md) — GPU-accelerated linear combination of atomic orbitals (LCAO) and plane-wave DFT code for large-scale materials simulations.
