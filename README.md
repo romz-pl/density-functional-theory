@@ -32,6 +32,7 @@
 + [HONPAS](./doc/software-honpas.md) — Numerical atomic orbital DFT code based on the SIESTA methodology with hybrid functional support.
 + [JDFTx](./doc/software-jdftx.md) — Open-source plane-wave DFT code emphasizing joint density-functional theory for solvation and electrochemical interfaces.
 + [LS3DF](./doc/software-ls3df.md) — Linearly Scaling Three-Dimensional Fragment (LS3DF) code is an advanced ab initio electronic structure calculation program developed primarily at Lawrence Berkeley National Laboratory.
++ [NWChem](./doc/software-nwchem.md) — Open-source, highly scalable quantum chemistry suite supporting DFT, TDDFT, and periodic (plane-wave and Gaussian) calculations on HPC systems.
 + [Octopus](./doc/software-octopus.md) — Real-space, real-time DFT/TDDFT code for finite and periodic systems, focused on excited-state and spectroscopic properties
 + [ONETEP](./doc/software-onetep.md) — Linear-scaling plane-wave-based DFT code using local orbitals ("psinc" functions), designed for very large systems.
 + [OpenMX](./doc/software-openmx.md) — Open-source DFT code using pseudo-atomic localized basis functions and norm-conserving pseudopotentials, efficient for large systems.
@@ -57,5 +58,3 @@
 + [VASP](./doc/software-vasp.md) — Vienna Ab initio Simulation Package idely used commercial plane-wave PAW/pseudopotential code for periodic solids, surfaces, and molecules; a mainstay in materials science and catalysis.
 + [WIEN2k](./doc/software-wien2k.md) — Widely used all-electron full-potential linearized augmented plane-wave plus local orbitals (FP-LAPW+lo) code for solids; commercial/academic license.
 
-
-## Pseudopotentials
