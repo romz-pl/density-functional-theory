@@ -53,6 +53,7 @@
 + [SPARC](./doc/software-sparc.md) — Real-space finite-difference DFT code designed for accuracy and scalability on modern high-performance computing architectures.
 + [SPHInX](./doc/software-sphinx.md) — S/PHI/nX is an object-oriented C++ density-functional theory (DFT) software package designed for electronic structure calculations and materials science research.
 + [SPR-KKR](./doc/software-sprkkr.md) — Fully relativistic spin-polarized KKR Green's-function DFT code for solids, surfaces, and disordered systems.
++ [TURBOMOLE](./doc/software-turbomole.md) — Commercial/academic quantum chemistry package known for fast, efficient DFT and post-HF calculations via RI/density-fitting techniques; also supports periodic DFT (Riper module).
 + [VASP](./doc/software-vasp.md) — Vienna Ab initio Simulation Package idely used commercial plane-wave PAW/pseudopotential code for periodic solids, surfaces, and molecules; a mainstay in materials science and catalysis.
 + [WIEN2k](./doc/software-wien2k.md) — Widely used all-electron full-potential linearized augmented plane-wave plus local orbitals (FP-LAPW+lo) code for solids; commercial/academic license.
 
