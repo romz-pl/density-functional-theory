@@ -41,6 +41,7 @@
 + [LS3DF](./doc/software-ls3df.md) — Linearly Scaling Three-Dimensional Fragment (LS3DF) code is an advanced ab initio electronic structure calculation program developed primarily at Lawrence Berkeley National Laboratory.
 + [Molcas / OpenMolcas](./doc/software-molcas.md) — Quantum chemistry package specializing in multiconfigurational methods, with DFT capabilities included; OpenMolcas is the open-source branch.
 + [MOLPRO](./doc/software-molpro.md) — Commercial quantum chemistry package strong in high-accuracy correlated methods, also offering DFT functionality.
++ [MPQC](./doc/software-mpqc.md) — Massively Parallel Quantum Chemistry; Open-source quantum chemistry package designed for parallel computation, including DFT methods.
 + [NWChem](./doc/software-nwchem.md) — Open-source, highly scalable quantum chemistry suite supporting DFT, TDDFT, and periodic (plane-wave and Gaussian) calculations on HPC systems.
 + [Octopus](./doc/software-octopus.md) — Real-space, real-time DFT/TDDFT code for finite and periodic systems, focused on excited-state and spectroscopic properties
 + [ONETEP](./doc/software-onetep.md) — Linear-scaling plane-wave-based DFT code using local orbitals ("psinc" functions), designed for very large systems.
