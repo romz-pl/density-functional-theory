@@ -54,6 +54,7 @@
 + [Psi4](./doc/software-psi4.md) — Open-source quantum chemistry package with extensive DFT and post-HF methods, popular for method development and Python scripting.
 + [PWDFT / PWDFT.jl](./doc/software-pwdft.md) — Plane-wave DFT codes (C++/Julia implementations) developed for large-scale and GPU-accelerated electronic structure calculations.
 + [PWmat](./doc/software-pwmat.md) — GPU-accelerated plane-wave pseudopotential DFT code designed for high-throughput and machine-learning-assisted materials simulation.
++ [PySCF](./doc/software-pyscf.md) — Open-source, Python-based quantum chemistry package supporting DFT, post-HF, and periodic calculations, popular for method prototyping.
 + [RESCU](./doc/software-rescu.md) — GPU-accelerated linear combination of atomic orbitals (LCAO) and plane-wave DFT code for large-scale materials simulations.
 + [RSDFT](./doc/software-rsdft.md) — Ab initio electronic structure calculation program that uses a real-space finite-difference grid and pseudopotentials.
 + [RSPt](./doc/software-rspt.md) — Relativistic Spin Polarized toolkit; Full-potential linear muffin-tin orbital (FP-LMTO) all-electron DFT code for solids.
