@@ -18,6 +18,7 @@
 + [Dacapo](./doc/software-dacapo.md) — Open-source density-functional theory (DFT) and ab initio molecular dynamics program.
 + [DALTON](./doc/software-dalton.md) — Open-source quantum chemistry package with a strong focus on molecular properties and response theory, including DFT/TDDFT.
 + [deMon2k](./doc/software-demon2k.md) — DFT-focused quantum chemistry code using Gaussian-type auxiliary density functional methods, efficient for large molecular systems.
++ [DeMonNano](./doc/software-demonnano.md) — DFT-based tight-binding code (auxiliary density functional tight-binding) for large biomolecular and nanoscale systems.
 + [DFT++](./doc/software-dftxx.md) — Open-source, object-oriented framework and methodology for density functional theory (DFT) calculations.
 + [DFTB+](./doc/software-dftb.md) — Fast approximate DFT code implementing density-functional tight-binding (DFTB) and extended tight-binding (xTB) methods for large systems.
 + [DFT-FE](./doc/software-dft-fe.md) — Real-space finite-element DFT code (based on deal.II) designed for large-scale, high-accuracy all-electron and pseudopotential calculations on HPC/GPU systems.
