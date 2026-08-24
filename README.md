@@ -16,7 +16,8 @@
 + [CP2K](./doc/software-cp2k.md) — Open-source code using a mixed Gaussian and plane-wave (GPW) approach, excelling at large-scale condensed-phase and QM/MM simulations.
 + [CPMD](./doc/software-cpmd.md) — Car-Parrinello Molecular Dynamics plane-wave code specialized in Car-Parrinello and Born-Oppenheimer ab initio molecular dynamics.
 + [Dacapo](./doc/software-dacapo.md) — Open-source density-functional theory (DFT) and ab initio molecular dynamics program.
-+ [DALTON](./doc/software-dalton.md) —Open-source quantum chemistry package with a strong focus on molecular properties and response theory, including DFT/TDDFT.
++ [DALTON](./doc/software-dalton.md) — Open-source quantum chemistry package with a strong focus on molecular properties and response theory, including DFT/TDDFT.
++ [deMon2k](./doc/software-demon2k.md) — DFT-focused quantum chemistry code using Gaussian-type auxiliary density functional methods, efficient for large molecular systems.
 + [DFT++](./doc/software-dftxx.md) — Open-source, object-oriented framework and methodology for density functional theory (DFT) calculations.
 + [DFTB+](./doc/software-dftb.md) — Fast approximate DFT code implementing density-functional tight-binding (DFTB) and extended tight-binding (xTB) methods for large systems.
 + [DFT-FE](./doc/software-dft-fe.md) — Real-space finite-element DFT code (based on deal.II) designed for large-scale, high-accuracy all-electron and pseudopotential calculations on HPC/GPU systems.
