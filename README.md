@@ -12,6 +12,7 @@
 + [AkaiKKR / MACHIKANEYAMA](./doc/software-akaikkr.md) — All-electron Korringa-Kohn-Rostoker (KKR) Green's-function DFT code, well suited to disordered alloys via the coherent potential approximation.
 + [BigDFT](./doc/software-bigdft.md) — DFT code using Daubechies wavelets as a basis, enabling adaptive resolution and linear-scaling algorithms.
 + [CASTEP](./doc/software-castep.md) — Plane-wave pseudopotential code for solids, surfaces, and interfaces, distributed with/without BIOVIA Materials Studio; commercial with academic licensing.
++ [CFOUR](./doc/software-cfour.md) — Quantum chemistry package specializing in coupled-cluster methods, also including DFT functionality.
 + [CONQUEST](./doc/software-conquest.md) — Linear-scaling DFT code for simulations of very large systems (up to millions of atoms) using numerical atomic orbitals or blip basis functions.
 + [CP2K](./doc/software-cp2k.md) — Open-source code using a mixed Gaussian and plane-wave (GPW) approach, excelling at large-scale condensed-phase and QM/MM simulations.
 + [CPMD](./doc/software-cpmd.md) — Car-Parrinello Molecular Dynamics plane-wave code specialized in Car-Parrinello and Born-Oppenheimer ab initio molecular dynamics.
