@@ -96,6 +96,7 @@ An exhaustive reference list of software packages that implement Density Functio
 | **xtb (Grimme group)** | Open-source semi-empirical extended tight-binding package built to approximate DFT-level accuracy at very low computational cost. |
 | **ACES / ACES III** | Quantum chemistry package specializing in coupled-cluster and many-body methods, with parallel implementations, also supporting DFT. |
 | **Molden / GaussSum** (auxiliary) | Not DFT engines themselves but common companion tools for visualizing/post-processing DFT output (included for completeness of the ecosystem). |
+| **Quickstep** | Electronic structure and molecular dynamics module inside the open-source program package CP2K. |
 
 ---
 
