@@ -27,6 +27,7 @@
 + [FHI96 / FLAIR](./doc/software-fhi96.md) — All-electron LAPW-based codes with historical roots in surface and thin-film electronic structure studies.
 + [FHI-aims](./doc/software-fhi-aims.md) — All-electron, numeric atom-centered orbital DFT code offering high accuracy across molecules, clusters, and periodic solids.
 + [FLEUR](./doc/software-fluer.md) — Open-source full-potential linearized augmented plane-wave (FLAPW) code, strong in magnetism and spin-orbit coupling studies.
++ [GAMESS (US)](./doc/software-games-us.md) — Free general quantum chemistry package supporting DFT, HF, and many post-HF methods, including QM/MM via the QuanPol module.
 + [Gaussian](./doc/software-gaussian.md) — Widely used commercial quantum chemistry package supporting a vast range of DFT functionals plus HF and post-HF methods for molecules.
 + [GPAW](./doc/software-gpaw.md) — Real-space/plane-wave/LCAO DFT code implementing the projector augmented-wave (PAW) method, built on the Python ASE framework.
 + [HONPAS](./doc/software-honpas.md) — Numerical atomic orbital DFT code based on the SIESTA methodology with hybrid functional support.
