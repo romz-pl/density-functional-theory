@@ -29,6 +29,7 @@
 + [Exciting](./doc/software-exciting.md) — Full-potential all-electron LAPW+lo code with a strong focus on excited-state properties (GW, BSE, TDDFT).
 + [FHI96 / FLAIR](./doc/software-fhi96.md) — All-electron LAPW-based codes with historical roots in surface and thin-film electronic structure studies.
 + [FHI-aims](./doc/software-fhi-aims.md) — All-electron, numeric atom-centered orbital DFT code offering high accuracy across molecules, clusters, and periodic solids.
++ [Firefly (PC GAMESS)](./doc/software-firefly.md) — Quantum chemistry package derived from GAMESS(US), optimized for x86 architectures, supporting DFT calculations.
 + [FLEUR](./doc/software-fluer.md) — Open-source full-potential linearized augmented plane-wave (FLAPW) code, strong in magnetism and spin-orbit coupling studies.
 + [GAMESS (UK)](./doc/software-games-uk.md) —Related but independently developed quantum chemistry package with DFT and ab initio capabilities, historically UK-centered.
 + [GAMESS (US)](./doc/software-games-us.md) — Free general quantum chemistry package supporting DFT, HF, and many post-HF methods, including QM/MM via the QuanPol module.
