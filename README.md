@@ -78,4 +78,5 @@
 + [TURBOMOLE](./doc/software-turbomole.md) — Commercial/academic quantum chemistry package known for fast, efficient DFT and post-HF calculations via RI/density-fitting techniques; also supports periodic DFT (Riper module).
 + [VASP](./doc/software-vasp.md) — Vienna Ab initio Simulation Package idely used commercial plane-wave PAW/pseudopotential code for periodic solids, surfaces, and molecules; a mainstay in materials science and catalysis.
 + [WIEN2k](./doc/software-wien2k.md) — Widely used all-electron full-potential linearized augmented plane-wave plus local orbitals (FP-LAPW+lo) code for solids; commercial/academic license.
++ [xtb](./doc/software-xtb.md) — Grimme group; Open-source semi-empirical extended tight-binding package built to approximate DFT-level accuracy at very low computational cost.
 
