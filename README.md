@@ -39,6 +39,7 @@
 + [Gaussian](./doc/software-gaussian.md) — Widely used commercial quantum chemistry package supporting a vast range of DFT functionals plus HF and post-HF methods for molecules.
 + [GPAW](./doc/software-gpaw.md) — Real-space/plane-wave/LCAO DFT code implementing the projector augmented-wave (PAW) method, built on the Python ASE framework.
 + [HONPAS](./doc/software-honpas.md) — Numerical atomic orbital DFT code based on the SIESTA methodology with hybrid functional support.
++ [HyperChem](./doc/software-hyperchem.md) — Commercial molecular modeling software including basic DFT functionality alongside molecular mechanics and semi-empirical methods.
 + [Jaguar](./doc/software-jaguar.md) — Commercial quantum chemistry package (Schrödinger suite) offering fast DFT methods for pharma and materials applications.
 + [JDFTx](./doc/software-jdftx.md) — Open-source plane-wave DFT code emphasizing joint density-functional theory for solvation and electrochemical interfaces.
 + [LS3DF](./doc/software-ls3df.md) — Linearly Scaling Three-Dimensional Fragment (LS3DF) code is an advanced ab initio electronic structure calculation program developed primarily at Lawrence Berkeley National Laboratory.
