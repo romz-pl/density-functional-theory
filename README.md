@@ -60,6 +60,7 @@
 + [PWmat](./doc/software-pwmat.md) — GPU-accelerated plane-wave pseudopotential DFT code designed for high-throughput and machine-learning-assisted materials simulation.
 + [PySCF](./doc/software-pyscf.md) — Open-source, Python-based quantum chemistry package supporting DFT, post-HF, and periodic calculations, popular for method prototyping.
 + [RESCU](./doc/software-rescu.md) — GPU-accelerated linear combination of atomic orbitals (LCAO) and plane-wave DFT code for large-scale materials simulations.
++ [Riper](./doc/software-riper.md) — Periodic-DFT extension module within TURBOMOLE using Gaussian-type orbitals for solids and surfaces.
 + [RSDFT](./doc/software-rsdft.md) — Ab initio electronic structure calculation program that uses a real-space finite-difference grid and pseudopotentials.
 + [RSPt](./doc/software-rspt.md) — Relativistic Spin Polarized toolkit; Full-potential linear muffin-tin orbital (FP-LMTO) all-electron DFT code for solids.
 + [Q-Chem](./doc/software-qchem.md) — Commercial quantum chemistry package offering a broad range of DFT functionals plus advanced excited-state and solvation methods.
