@@ -13,6 +13,7 @@
 + [ADF](./doc/software-adf.md) — Amsterdam Density Functional; Commercial DFT-centric package using Slater-type orbitals, part of the Amsterdam Modeling Suite (AMS), strong in relativistic and spectroscopic calculations.
 + [AkaiKKR / MACHIKANEYAMA](./doc/software-akaikkr.md) — All-electron Korringa-Kohn-Rostoker (KKR) Green's-function DFT code, well suited to disordered alloys via the coherent potential approximation.
 + [BAND](./doc/software-band.md) — Periodic-system DFT code (Slater-type orbitals) within the Amsterdam Modeling Suite, for solids, surfaces, and semiconductors.
++ [BerkeleyGW](./doc/software-berkeleygw.md) — Many-body perturbation theory package (GW/BSE) that uses mean-field DFT wavefunctions from codes like Quantum ESPRESSO, PARATEC, or Abinit as input.
 + [BigDFT](./doc/software-bigdft.md) — DFT code using Daubechies wavelets as a basis, enabling adaptive resolution and linear-scaling algorithms.
 + [CASTEP](./doc/software-castep.md) — Plane-wave pseudopotential code for solids, surfaces, and interfaces, distributed with/without BIOVIA Materials Studio; commercial with academic licensing.
 + [CFOUR](./doc/software-cfour.md) — Quantum chemistry package specializing in coupled-cluster methods, also including DFT functionality.
