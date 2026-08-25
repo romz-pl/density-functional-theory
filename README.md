@@ -30,6 +30,7 @@
 + [DGDFT](./doc/software-dgdft.md) — Discontinuous Galerkin DFT code designed for massively parallel, large-scale electronic structure calculations.
 + [DMol3](./doc/software-dmol3.md) — Numerical atomic orbital DFT code for molecules, surfaces, and solids, distributed within BIOVIA Materials Studio (commercial).
 + [Elk](./doc/software-elk.md) — Open-source, full-potential all-electron LAPW code, notable for extensive support of advanced DFT and beyond-DFT methods.
++ [ERGOSCF (Ergo)](./doc/software-ergo.md) — Open-source linear-scaling HF/DFT code focused on very large molecular systems using density matrix purification techniques.
 + [Exciting](./doc/software-exciting.md) — Full-potential all-electron LAPW+lo code with a strong focus on excited-state properties (GW, BSE, TDDFT).
 + [FHI96 / FLAIR](./doc/software-fhi96.md) — All-electron LAPW-based codes with historical roots in surface and thin-film electronic structure studies.
 + [FHI-aims](./doc/software-fhi-aims.md) — All-electron, numeric atom-centered orbital DFT code offering high accuracy across molecules, clusters, and periodic solids.
