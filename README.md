@@ -68,6 +68,7 @@
 + [SIESTA](./doc/software-siesta.md) — Open-source, order-N (linear-scaling capable) DFT code using numerical atomic orbital basis sets and norm-conserving pseudopotentials.
 + [Socorro](./doc/software-socorro.md) — Open-source, object-oriented electronic structure computer code developed primarily at Sandia National Laboratories for performing self-consistent density-functional theory (DFT) calculations.
 + [SPARC](./doc/software-sparc.md) — Real-space finite-difference DFT code designed for accuracy and scalability on modern high-performance computing architectures.
++ [Spartan](./doc/software-spartan.md) —Commercial molecular modeling package offering DFT alongside HF/semi-empirical methods, aimed at broad usability.
 + [SPHInX](./doc/software-sphinx.md) — S/PHI/nX is an object-oriented C++ density-functional theory (DFT) software package designed for electronic structure calculations and materials science research.
 + [SPR-KKR](./doc/software-sprkkr.md) — Fully relativistic spin-polarized KKR Green's-function DFT code for solids, surfaces, and disordered systems.
 + [StoBe](./doc/software-stobe.md) — Gaussian-basis DFT codes historically used for X-ray absorption spectroscopy simulations.
