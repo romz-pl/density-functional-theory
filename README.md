@@ -9,6 +9,7 @@
 ## Software Packages
 + [Abacus](./doc/software-abacus.md) — Open-source DFT package supporting both plane-wave and numerical atomic orbital bases, developed for large-scale and high-throughput calculations.
 + [ABINIT](./doc/software-abinit.md) — Open-source plane-wave/PAW code with strong capabilities in DFPT (density-functional perturbation theory), phonons, and many-body perturbation theory (GW, BSE).
++ [ACES](./doc/software-aces.md) — Quantum chemistry package specializing in coupled-cluster and many-body methods, with parallel implementations, also supporting DFT.
 + [ADF](./doc/software-adf.md) — Amsterdam Density Functional; Commercial DFT-centric package using Slater-type orbitals, part of the Amsterdam Modeling Suite (AMS), strong in relativistic and spectroscopic calculations.
 + [AkaiKKR / MACHIKANEYAMA](./doc/software-akaikkr.md) — All-electron Korringa-Kohn-Rostoker (KKR) Green's-function DFT code, well suited to disordered alloys via the coherent potential approximation.
 + [BAND](./doc/software-band.md) — Periodic-system DFT code (Slater-type orbitals) within the Amsterdam Modeling Suite, for solids, surfaces, and semiconductors.
