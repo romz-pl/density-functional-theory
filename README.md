@@ -68,6 +68,7 @@
 + [Q-Chem](./doc/software-qchem.md) — Commercial quantum chemistry package offering a broad range of DFT functionals plus advanced excited-state and solvation methods.
 + [Qbox](./doc/software-qbox.md) — Scalable plane-wave/pseudopotential code designed for large-scale parallel first-principles molecular dynamics on supercomputers.
 + [Quantum ESPRESSO](./doc/software-quantum-espresso.md) — Open-source integrated suite (PWscf, CP, PHonon, etc.) for plane-wave pseudopotential DFT, phonons, and molecular dynamics.
++ [Quickstep](./doc/software-quickstep.md) — Electronic structure and molecular dynamics module inside the open-source program package CP2K.
 + [Questaal](./doc/software-questaal.md) — Suite of full-potential and atomic-sphere-approximation LMTO codes for electronic structure, including DFT+DMFT and GW.
 + [SIESTA](./doc/software-siesta.md) — Open-source, order-N (linear-scaling capable) DFT code using numerical atomic orbital basis sets and norm-conserving pseudopotentials.
 + [Socorro](./doc/software-socorro.md) — Open-source, object-oriented electronic structure computer code developed primarily at Sandia National Laboratories for performing self-consistent density-functional theory (DFT) calculations.
