@@ -72,6 +72,7 @@
 + [Quantum ESPRESSO](./doc/software-quantum-espresso.md) — Open-source integrated suite (PWscf, CP, PHonon, etc.) for plane-wave pseudopotential DFT, phonons, and molecular dynamics.
 + [Quickstep](./doc/software-quickstep.md) — Electronic structure and molecular dynamics module inside the open-source program package CP2K.
 + [Questaal](./doc/software-questaal.md) — Suite of full-potential and atomic-sphere-approximation LMTO codes for electronic structure, including DFT+DMFT and GW.
++ [SALMON](./doc/software-salmon.md) — Open-source real-time TDDFT code for light-matter interaction simulations in molecules and solids.
 + [SIESTA](./doc/software-siesta.md) — Open-source, order-N (linear-scaling capable) DFT code using numerical atomic orbital basis sets and norm-conserving pseudopotentials.
 + [Socorro](./doc/software-socorro.md) — Open-source, object-oriented electronic structure computer code developed primarily at Sandia National Laboratories for performing self-consistent density-functional theory (DFT) calculations.
 + [SPARC](./doc/software-sparc.md) — Real-space finite-difference DFT code designed for accuracy and scalability on modern high-performance computing architectures.
