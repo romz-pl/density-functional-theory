@@ -84,4 +84,5 @@
 + [VASP](./doc/software-vasp.md) — Vienna Ab initio Simulation Package idely used commercial plane-wave PAW/pseudopotential code for periodic solids, surfaces, and molecules; a mainstay in materials science and catalysis.
 + [WIEN2k](./doc/software-wien2k.md) — Widely used all-electron full-potential linearized augmented plane-wave plus local orbitals (FP-LAPW+lo) code for solids; commercial/academic license.
 + [xtb](./doc/software-xtb.md) — Extended Tight-Binding; Open-source semi-empirical extended tight-binding package built to approximate DFT-level accuracy at very low computational cost.
++ [Yambo](./doc/software-yambo.md) — Many-body perturbation theory code (GW, BSE) built to work alongside ground-state DFT codes (e.g., Quantum ESPRESSO, Abinit) for excited states.
 
